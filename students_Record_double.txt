@@ -1,0 +1,67 @@
+ID 		Name t		 Age 		 Roll 		 Year 			 GPA 
+1013		AMAN			20		3		3			2.2
+HE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 					 Age 					 Year 			 GPA 
+1012		BINI				21			2			3.5
+1011		BIRUK				20			2			3.4
+
+THE TOTAL NUMBER OF STUDENTS IS : 2
+ID 		Name 					 Age 					 Year 			 GPA 
+1		BIRUK				20			2			3.5
+
+THE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 					 Age 					 Year 			 GPA 
+2		BINI				21			2			3.6
+1		BIRUK				20			2			3.5
+
+THE TOTAL NUMBER OF STUDENTS IS : 2
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1011		BIRUK			20			1			2			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1012		ABEL			21			2			2			3.4
+1011		BIRUK			20			1			2			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 2
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1012		ABEL			21			2			2			3.4
+1013		MIKI			23			3			3			3.8
+1011		BIRUK			20			1			2			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 3
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1012		ABEL			21			2			2			3.4
+1013		MIKI			23			3			3			3.8
+1011		BIRUK			20			1			2			3.2
+1014		ABEL			18			4			12			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 4
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1013		MIKI			23			3			3			3.8
+1011		BIRUK			20			1			2			3.2
+1014		ABEL			18			4			12			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 3
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1013		MIKI			23			3			3			3.8
+1014		ABEL			18			4			12			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 2
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1013		AMAN			20			3			3			2.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1011		BIRUK			20			1			2			3.4
+
+THE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1011		BIRUK			20			1			2			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 1
+ID 		Name 			 Age 			 Roll 			 Year 			 GPA 
+1012		BINI			21			2			2			4
+1011		BIRUK			20			1			2			3.2
+
+THE TOTAL NUMBER OF STUDENTS IS : 2
